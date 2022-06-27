@@ -1,1 +1,1 @@
-made by following (this tutorial)[https://www.mongodb.com/languages/mern-stack-tutorial]
+made by following [this tutorial](https://www.mongodb.com/languages/mern-stack-tutorial)
